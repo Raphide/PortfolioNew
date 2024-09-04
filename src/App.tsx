@@ -4,7 +4,7 @@ import AboutPage from "./pages/AboutPage/AboutPage";
 import Navbar from "./components/Navbar/Navbar";
 import ProjectsPage from "./pages/ProjectsPage/ProjectsPage";
 import ContactPage from "./pages/ContactPage/ContactPage";
-import SplashV2 from "./components/SplashV2/SplashV2";
+// import SplashV2 from "./components/SplashV2/SplashV2";
 
 function App() {
   return (
@@ -12,9 +12,9 @@ function App() {
       <div className="base">
         <BrowserRouter>
           <div className="header">
-            <div className="splash">
+            {/* <div className="splash">
        <SplashV2/>
-       </div>
+       </div> */}
             <h1>ATLAS USIC</h1>
             <Navbar />
           </div>
