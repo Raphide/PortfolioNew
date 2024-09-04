@@ -1,7 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.scss";
-import Splash from "./components/Splash/Splash";
-import { useState } from "react";
 import AboutPage from "./pages/AboutPage/AboutPage";
 import Navbar from "./components/Navbar/Navbar";
 import ProjectsPage from "./pages/ProjectsPage/ProjectsPage";
@@ -14,9 +12,9 @@ function App() {
       <div className="base">
         <BrowserRouter>
           <div className="header">
-            {/* <div className="splash">
+            <div className="splash">
        <SplashV2/>
-       </div> */}
+       </div>
             <h1>ATLAS USIC</h1>
             <Navbar />
           </div>

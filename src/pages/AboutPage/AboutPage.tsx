@@ -1,4 +1,4 @@
-import React from "react";
+
 import styles from "./AboutPage.module.scss"
 import portrait from "../../assets/portrait.jpg"
 const AboutPage = () => {

@@ -1,4 +1,4 @@
-import React from "react";
+
 import styles from "./ContactPage.module.scss"
 import linkedIn from "../../assets/linkedin.svg"
 import gitHub from "../../assets/github.svg"
@@ -23,7 +23,7 @@ const ContactPage = () => {
 
               <label> Your message:</label>
 
-              <textarea name="message" rows="7" cols="50" required ></textarea>
+              <textarea name="message" required ></textarea>
 
               <button type="submit" className="button button--submit">
                 Send
