@@ -1,5 +1,4 @@
-import React from "react";
-import { Dispatch, SetStateAction, useState } from "react";
+import { useState } from "react";
 import styles from "./Splash.module.scss";
 import github from "../../assets/github-brands-solid.svg";
 import linkedIn from "../../assets/linkedin-brands-solid.svg";

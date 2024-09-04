@@ -1,8 +1,5 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import styles from "./ImageSlider.module.scss";
-import HeadLeft from "../../assets/HeadLeft.svg";
-import HeadRight from "../../assets/HeadRight.svg";
-import { Link } from "react-router-dom";
 import projects from "../../data/projects.json";
 
 const ImageSlider = ({}) => {
