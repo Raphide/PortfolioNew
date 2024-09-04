@@ -1,0 +1,25 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    .bar {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: flex-end;
+      padding: 2em 1em 1em 1em;
+      width: 70%;
+
+      .pages{
+        color: #ffffff;
+      text-decoration: none;
+      font-family: "Poppins", sans-serif;
+      font-weight: 500;
+      font-style: normal;
+      font-size: 1.5em;
+      height: fit-content;
+  
+      }
+    }
+}

@@ -1,0 +1,35 @@
+[
+    {
+        "title":"Todo",
+        "description":"A full stack application to create a todo list",
+        "picture":"https://raw.githubusercontent.com/Raphide/ToDo-App/main/src/assets/todo.png",
+        "stack":["Java","Springboot", "React", "TypeScript", "SCSS"],
+        "github":"https://github.com/Raphide/ToDo-App"
+
+    },
+    {
+        "title":"Minesweeper",
+        "description":"A game of Minesweeper made purely in Java, to be played in the Java CLI",
+        "picture":"https://raw.githubusercontent.com/Raphide/minesweeper/main/minesweeper/minesweeper.png",
+        "stack":["Java"],
+        "github":"https://github.com/Raphide/minesweeper"
+
+    },
+    {
+        "title":"E-Shop",
+        "description":"A fake E-commerce site that utilises Google's Firestore database",
+        "picture":"https://raw.githubusercontent.com/Raphide/EShop/main/src/assets/Screenshot%202024-09-04%20160046.png",
+        "stack":["Google Firebase","React", "JavaScript", "SCSS", "CSS"],
+        "github":"https://github.com/Raphide/EShop"
+
+    },
+    {
+        "title":"GoogleBooks",
+        "description":"A search engine pulling data from the Google Books API",
+        "picture":"https://raw.githubusercontent.com/Raphide/GoogleBooks/main/src/assets/googlebooks.png",
+        "stack":["React","JavaScript", "SCSS"],
+        "github":"https://github.com/Raphide/GoogleBooks"
+
+    }
+
+]

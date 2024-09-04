@@ -1,0 +1,16 @@
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+
+}
+
+.portrait{
+    height:65%;
+    margin-right: 30px;
+}
+
+.text{
+    height: fit-content;
+}

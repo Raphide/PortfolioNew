@@ -1,0 +1,33 @@
+.inner{
+    display: flex;
+    flex-direction: row;
+   width: 100%;
+}
+.contact{
+    display: flex;
+flex-direction: row;
+justify-content: space-between;
+width: 60vw;
+.form{
+    display: flex;
+flex-direction: column;
+font-size: 1.25em;
+label{
+    margin: 1em 0 0.5em 0;
+}
+textarea{
+    margin-bottom: 0.5em;
+}
+}
+}
+
+.icon {
+    height: 10vh;
+    color: #ff692d;
+    // @include q.L-phone {
+    //   height: 7vh;
+    // }
+    // @include q.laptop {
+    //   height: 10vh;
+    // }
+  }
